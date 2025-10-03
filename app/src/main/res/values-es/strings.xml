@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="amount">Cantidad</string>
+    <string name="guests">Comensales</string>
+    <string name="round_tip">Redondear propina</string>
+    <string name="rating">Valoración</string>
+    <string name="calculate">Calcular</string>
+    <string name="selected_tip">Propina seleccionada: %1$d%%</string>
+    <string name="error_guests">Introduce al menos un comensal</string>
+    <string name="error_amount">Introduce una cantidad válida</string>
+    <string name="total_value">Valor total: %1$s</string>
+    <string name="per_person">Valor por persona: %1$s</string>
+</resources>
