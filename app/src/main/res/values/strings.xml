@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="comensales">Comensales</string>
+    <string name="redondear">Redondear propina</string>
+    <string name="valoracion">Valoración</string>
+    <string name="calcular">Calcular</string>
+    <string name="propina_seleccionada">Propina seleccionada: %1$d%%</string>
+    <string name="error_comensales">Introduce al menos un comensal</string>
+    <string name="error_cantidad">Introduce una cantidad válida</string>
+    <string name="valor_total">Valor total: %1$s</string>
+    <string name="valor_persona">Valor por persona: %1$s</string>
+</resources>
